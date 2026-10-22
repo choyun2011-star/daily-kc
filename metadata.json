@@ -1,0 +1,6 @@
+{
+  "name": "Daily Kcal - Өдрийн илчлэг ба шим тэжээл хэмжигч",
+  "description": "Монгол хэрэглэгчдэд зориулсан өдөр тутмын хоолны илчлэг, ус, шим тэжээл тооцоолох ухаалаг систем",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
